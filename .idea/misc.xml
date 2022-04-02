@@ -3,8 +3,23 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/armaan/AndroidStudioProjects/SmartKart/app/src/main/res/drawable/ic_user_profile.xml" value="0.1" />
         <entry key="..\:/Users/armaan/AndroidStudioProjects/SmartKart/app/src/main/res/drawable/outline_shopping_cart_24.xml" value="0.1" />
+        <entry key="..\:/Users/armaan/AndroidStudioProjects/SmartKart/app/src/main/res/drawable/shape_login_button.xml" value="0.1" />
+        <entry key="..\:/Users/armaan/AndroidStudioProjects/SmartKart/app/src/main/res/drawable/side_nav_bar.xml" value="0.1" />
+        <entry key="..\:/Users/armaan/AndroidStudioProjects/SmartKart/app/src/main/res/layout/activity_login.xml" value="0.14375" />
+        <entry key="..\:/Users/armaan/AndroidStudioProjects/SmartKart/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/armaan/AndroidStudioProjects/SmartKart/app/src/main/res/layout/activity_shopping.xml" value="0.27447916666666666" />
         <entry key="..\:/Users/armaan/AndroidStudioProjects/SmartKart/app/src/main/res/layout/activity_splash.xml" value="0.16" />
+        <entry key="..\:/Users/armaan/AndroidStudioProjects/SmartKart/app/src/main/res/layout/app_bar_main.xml" value="0.13055555555555556" />
+        <entry key="..\:/Users/armaan/AndroidStudioProjects/SmartKart/app/src/main/res/layout/content_main.xml" value="0.1" />
+        <entry key="..\:/Users/armaan/AndroidStudioProjects/SmartKart/app/src/main/res/layout/nav_header_main.xml" value="0.1" />
+        <entry key="..\:/Users/armaan/AndroidStudioProjects/SmartKart/app/src/main/res/layout/sample_card_itme.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/armaan/AndroidStudioProjects/SmartKart/app/src/main/res/layout/sample_category_card.xml" value="0.25885416666666666" />
+        <entry key="..\:/Users/armaan/AndroidStudioProjects/SmartKart/app/src/main/res/layout/toolbar_shopping.xml" value="0.25885416666666666" />
+        <entry key="..\:/Users/armaan/AndroidStudioProjects/SmartKart/app/src/main/res/menu/activity_main_drawer.xml" value="0.25885416666666666" />
+        <entry key="..\:/Users/armaan/AndroidStudioProjects/SmartKart/app/src/main/res/menu/bottom_objective_menu.xml" value="0.14375" />
+        <entry key="..\:/Users/armaan/AndroidStudioProjects/SmartKart/app/src/main/res/menu/main.xml" value="0.2" />
       </map>
     </option>
   </component>

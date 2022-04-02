@@ -13,4 +13,5 @@
     <color name="colorAccent">#e91e63</color>
     <color name="grayColor">#a9a9a9</color>
     <color name="lightGrayColor">#fafafa</color>
+    <color name="navHeaderBanner">#f7f5ff</color>
 </resources>

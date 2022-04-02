@@ -1,3 +1,32 @@
 <resources>
     <string name="app_name">SmartKart</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Login/SignUp</string>
+    <string name="nav_header_subtitle">Your profile will appear here.</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_save">Save</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="bottom_nav_create">Suggest Logo</string>
+    <string name="bottom_nav_edit">Edit Design</string>
+    <string name="suggest_logo">Suggest Logo</string>
+    <string name="edit_designs">Edit Designs</string>
+    <string name="sample_category">Category</string>
+    <string name="rate_us_question">Liked our App?</string>
+    <string name="rate_us_request">Please rate us on Playstore</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+    <string name="nav_faq">FAQ</string>
+    <string name="nav_privacy">Privacy Policies</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_rateus">Rate Us</string>
+    <string name="menu_my_works">My Works</string>
+    <string name="ic_log_out">Exit Application</string>
 </resources>
